@@ -1,0 +1,12 @@
+- Administrador
+  . CRUD
+
+- Jefe
+  . Ver arbol
+  . Ver pago general
+
+- Usuario
+  . Listar afiliados
+  . Invitar clientes
+  . Ver pago
+
